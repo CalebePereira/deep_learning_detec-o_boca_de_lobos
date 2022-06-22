@@ -5,3 +5,6 @@ MMdetection.py - notebook com toda implementação em python.
 
 ### Apresentação do Projeto
 https://www.youtube.com/watch?v=T-dafDojjsc
+
+### MMDETECTION’S DOCUMENTATION
+https://mmdetection.readthedocs.io/en/latest/
