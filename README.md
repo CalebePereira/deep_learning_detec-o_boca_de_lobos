@@ -4,4 +4,4 @@ Projeto de Iniciação Científica - Deep Learning aplicado na detecção de boc
 MMdetection.py - notebook com toda implementação em python.
 
 ### Apresentação do Projeto
-(https://www.youtube.com/watch?v=T-dafDojjsc)
+l(https://www.youtube.com/watch?v=T-dafDojjsc)
